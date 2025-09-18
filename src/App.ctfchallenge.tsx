@@ -1,4 +1,3 @@
-import React from 'react'
 import { Container, Box, Typography, Paper } from '@mui/material'
 import Chat from './components/Chat'
 import Examples from './components/Examples'
